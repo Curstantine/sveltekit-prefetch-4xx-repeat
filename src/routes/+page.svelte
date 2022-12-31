@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div style="display: contents">
+  <a href="/repeat">Repeat</a>
+  <a href="/donot">Do not repeat</a>
+</div>
+
+<style>
+  a {
+    font-size: 2rem;
+    color: #fff;
+  }
+</style>
